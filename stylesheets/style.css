@@ -262,13 +262,13 @@
 }
 .footer {
     background-color: rgb(180,175,175);
-    width: auto;
     padding: 20px;
 }
 
 .footer-container {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
+    padding: 16px 16px;
     align-items: center; 
     background-color: rgb(180,175,175);
 }
